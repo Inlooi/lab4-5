@@ -1,0 +1,13 @@
+# Зависимости
+node_modules
+npm-debug.log
+# Build артефакты
+client/build
+# Git
+.git
+.gitignore
+# Docker
+Dockerfile
+.dockerignore
+# Документация
+*.md
